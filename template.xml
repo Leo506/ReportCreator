@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Document>
+    <Head fontSize="20" helpText="Заголовок"/>
+    <Paragraph1 fontSize="16", helpText="Кто выполнил и группа">
+    <Paragraph2 fontSize="16" helpText="Текст задания"/>
+    <Picture helpText="Картинка"/>
+</Document>
